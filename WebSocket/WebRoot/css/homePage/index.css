@@ -1,0 +1,47 @@
+
+body{
+	margin:0;
+	padding:0;
+	color:#666;
+}
+
+.content{
+	width:100%;
+	height:900px;
+	background:url("/WebSocket/images/homePage/backImg.jpg") center no-repeat;
+	float:left;
+	overflow-y:hidden;
+}
+.back{
+	width:100%;
+	height:100%;
+	background-color:rgba(61,66,96,0.4);
+}
+
+.main{
+	width:100%;
+	height:100%;
+	text-align:center;
+	padding-top:25%;
+}
+
+.title{
+	color:#fff;
+font-size:100px;
+font-family: Geneva, Arial, Helvetica, sans-serif;
+}
+
+.left{
+width:64%;
+overflow-y:auto;
+padding-left:3%;
+
+}
+
+.btn-new{
+margin-right:10px;background-color:transparent;color:#fff;border:1px solid #fff
+}
+
+#room{
+	width:100%;
+}
